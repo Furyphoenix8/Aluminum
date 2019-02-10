@@ -2,7 +2,7 @@
 layout: post
 title: Basic Aluminum Information
 image: img/testimg-cover.jpg
-author: Griffin
+author: ghost
 date: 2018-09-30T07:03:47.149Z
 tags: 
   - Tests
