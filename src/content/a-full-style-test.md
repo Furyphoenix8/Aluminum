@@ -22,14 +22,14 @@ Below is just about everything you’ll need to style in the theme. Check the so
 
 # Element Info
 
-Element Name : Aluminum
-Atomic Symbol : Al
-Atomic Number : 13
-Atomic Mass : 26.98
-Mass Number : 27
-Number of Protons : 13
-Number of Electrons : 13
-Number of Neutrons : 14
+Element Name : Aluminum <br/>
+Atomic Symbol : Al <br/>
+Atomic Number : 13 <br/>
+Atomic Mass : 26.98 <br/>
+Mass Number : 27 <br/>
+Number of Protons : 13 <br/>
+Number of Electrons : 13 <br/>
+Number of Neutrons : 14 <br/>
 
 ---
 
