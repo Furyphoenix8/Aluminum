@@ -8,13 +8,7 @@ tags:
   - Tests
 ---
 
-Below is just basic information on the element of Aluminum.
-
----
-
-# Basic Information
-
-The element, aluminum, is a type of metal, and is part of the Boron family.
+The element, aluminum, is a type of metal and is part of the boron family or group in the periodic table. Below is some more information on the element.
 
 ---
 
