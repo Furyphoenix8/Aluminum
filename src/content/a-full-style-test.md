@@ -8,7 +8,7 @@ tags:
   - Tests
 ---
 
-Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+Below is just basic information on the element of Aluminum.
 
 ---
 
@@ -32,44 +32,6 @@ Number of Electrons : 13 <br/>
 Number of Neutrons : 14 <br/>
 
 ---
-
-## Media
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
-
-### Big Image
-
-![Test Image](img/testimg1.jpg)
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-### Small Image
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
-
-![Small Test Image](img/testimg2.jpg)
-
-Labore et dolore.
-
----
-
-## List Types
-
-### Definition List
-
-Definition List Title
-: This is a definition list division.
-
-Definition
-: An exact statement or description of the nature, scope, or meaning of something: _our definition of what constitutes poetry._
-
-### Ordered List
-
-1. List Item 1
-2. List Item 2
-   1. Nested list item A
-   2. Nested list item B
-3. List Item 3
 
 ### Unordered List
 
