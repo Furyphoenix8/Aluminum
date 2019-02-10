@@ -12,6 +12,9 @@ Below is just basic information on the element of Aluminum.
 
 ---
 
+# Basic Information
+
+The element, aluminum, is a type of metal, and is part of the Boron family.
 
 ---
 
