@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A Full and Comprehensive Style Test
+title: Basic Aluminum Information
 image: img/testimg-cover.jpg
-author: Ghost
+author: Griffin
 date: 2018-09-30T07:03:47.149Z
 tags: 
   - Tests
