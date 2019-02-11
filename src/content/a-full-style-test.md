@@ -30,3 +30,9 @@ Mass Number : 27 <br/>
 Number of Protons : 13 <br/>
 Number of Electrons : 13 <br/>
 Number of Neutrons : 14 <br/>
+
+# Interesting Facts
+
+- Aluminum was actually named after the place it was first discovered in, Alum
+- Aluminum is the most common metal on earth, for it makes up more than 8% of the Earth's mass
+- Aluminum is the third most common element in the world after oxygen and silicon
