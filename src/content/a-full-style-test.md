@@ -50,3 +50,5 @@ Aluminum has many uses because of its many properties, like being a good conduct
 - window frames
 - aeroplane parts
 - kitchen utensils
+
+---
