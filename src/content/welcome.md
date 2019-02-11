@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Background Information"
-author: Ghost
+author: Griffin
 tags: ["Getting Started"]
 image: img/welcome-to-ghost.jpg
 date: "2018-05-06T23:46:37.121Z"
