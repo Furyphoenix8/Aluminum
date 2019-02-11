@@ -5,7 +5,7 @@ image: img/testimg-cover.jpg
 author: Griffin
 date: 2018-09-30T07:03:47.149Z
 tags: 
-  - Tests
+  - __
 ---
 
 The element, aluminum, is a type of metal and is part of the boron family or group in the periodic table. Below is some more information on the element.
