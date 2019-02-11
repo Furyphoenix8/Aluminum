@@ -15,4 +15,4 @@ It was already known that there was an unknown metal in Alum in 1787, but people
 
 # Background Information
 
-Aluminum is found all over the world, specifically in the crust of the earth, for it is the most abundant metal in the earth's crust, and the third most common chemical element on Earth. While this is true, it is never found by itself, it is always combined with another element because of how easily it binds, so it is never found in pure form. It is mostly found in the form of 27, and it is a very common metal.
+Aluminum is found all over the world, specifically in the crust of the earth, for it is the most abundant metal in the earth's crust, and the third most common chemical element on Earth. While this is true, it is never found by itself, it is always combined with another element like oxygen because of how easily it binds, so it is never found in pure form. It is mostly found in the form of 27, and it is a very common metal. The main source of aluminum is from bauxite, a combination of aluminum, oxygen, and other elements.
