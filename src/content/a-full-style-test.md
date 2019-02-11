@@ -31,8 +31,21 @@ Number of Protons : 13 <br/>
 Number of Electrons : 13 <br/>
 Number of Neutrons : 14 <br/>
 
+---
+
 # Interesting Facts
 
 - Aluminum was actually named after the place it was first discovered in, Alum
 - Aluminum is the most common metal on earth, for it makes up more than 8% of the Earth's mass
 - Aluminum is the third most common element in the world after oxygen and silicon
+
+---
+
+# Values and Uses
+
+Aluminum has many uses because of its many properties, like being a good conductor, being corrosion resistant, and how malleable it is. Here are some uses:
+- electrical transmission lines
+- foils
+- window frames
+- aeroplane parts
+- kitchen utensils
