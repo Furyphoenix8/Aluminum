@@ -4,8 +4,7 @@ title: Aluminum Basic Info and Interesting Facts
 image: img/testimg-cover.jpg
 author: Griffin
 date: 2018-09-30T07:03:47.149Z
-tag: 
- - Tests
+tag: Tests
  
 ---
 
