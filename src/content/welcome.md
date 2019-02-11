@@ -3,7 +3,7 @@ layout: post
 title: "Background Information"
 author: Ghost
 tags: ["Getting Started"]
-image: welcome-to-ghost.jpg.jpg
+image: welcome-to-ghost.jpg
 date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
