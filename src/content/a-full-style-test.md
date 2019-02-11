@@ -6,6 +6,7 @@ author: Griffin
 date: 2018-09-30T07:03:47.149Z
 tag: 
  - Tests
+ 
 ---
 
 Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
