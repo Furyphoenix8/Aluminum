@@ -1,25 +1,18 @@
 ---
 layout: post
-title: "Welcome to Ghost"
+title: "Background Information"
 author: Ghost
 tags: ["Getting Started"]
 image: img/welcome-to-ghost.jpg
 date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
+# History
 
-👋 Welcome, it's great to have you here.
+Aluminum was first discovered by a Danish chemist named Hans Christian Oersted in 1825.<br/>
 
-We know that first impressions are important, so we've populated your new site with some initial __getting started__ posts that will help you get familiar with everything in no time. This is the first one!
+It was already known that there was an unknown metal in Alum in 1787, but people couldn't extract it, until Hans Christian Oersted was able to extract it and produce tiny amounts of it, although it was actually an alloy, not pure aluminum. Friedrich Woehler, a German Chemist, continued his work and finally created small balls of solid aluminum after 18 years of experimentation.
 
-__A few things you should know upfront__:
-1. Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That's who it works best for. 
-2. The entire platform can be modified and customised to suit your needs. It's very powerful, but does require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog. 
-3. For the best experience we recommend downloading the Ghost Desktop App for your computer, which is the best way to access your Ghost site on a desktop device. 
+# Background Information
 
-Ghost is made by an independent non-profit organisation called the Ghost Foundation. We are 100% self funded by revenue from our Ghost(Pro) service, and every penny we make is re-invested into funding further development of free, open source technology for modern publishing.  
-
-The version of Ghost you are looking at right now would not have been made possible without generous contributions from the open source community.  
-## Next up, the editor
-The main thing you'll want to read about next is probably: the Ghost editor. This is where the good stuff happens.
-> By the way, once you're done reading, you can simply delete the default __Ghost__ user from your team to remove all of these introductory posts! 
+Aluminum is found all over the world, specifically in the crust of the earth, for it is the most abundant metal in the earth's crust, and the third most common chemical element on Earth. While this is true, it is never found by itself, it is always combined with another element because of how easily it binds, so it is never found in pure form. It is mostly found in the form of 27, and it is a very common metal.
