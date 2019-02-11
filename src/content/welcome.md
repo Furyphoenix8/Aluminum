@@ -3,7 +3,7 @@ layout: post
 title: "Background Information"
 author: Ghost
 tags: ["Getting Started"]
-image: https://www.aps.org/publications/apsnews/200807/images/Orsted-web.jpg
+image: welcome-to-ghost.jpg.jpg
 date: "2018-05-06T23:46:37.121Z"
 draft: false
 ---
