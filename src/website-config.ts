@@ -30,7 +30,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Aluminum Research',
-  description: 'Element Research',
+  description: 'Number 13, Element Aluminum',
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/ghost-logo.png',
   lang: 'en',
